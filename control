@@ -1,0 +1,10 @@
+Package: com.xtm3x.sleekkey
+Name: SleekKey
+Depends: mobilesubstrate
+Version: 1.0
+Depiction: http://repo.tm3dev.com/depics/sleekkey.html
+Architecture: iphoneos-arm
+Description: Removes the background on system keys.
+Maintainer: xTheMaster3x
+Author: xTheMaster3x
+Section: Tweaks
