@@ -7,7 +7,6 @@ include theos/makefiles/common.mk
 TWEAK_NAME = SleekKey
 SleekKey_FILES = Tweak.xm
 SleekKey_FRAMEWORKS = UIKit
-SleekKey_PRIVATE_FRAMEWORKS = AppSupport
 ARCHS = armv7 arm64
 
 include $(THEOS_MAKE_PATH)/tweak.mk
