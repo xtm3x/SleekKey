@@ -2,10 +2,10 @@
 
 %hook UIKBRenderConfig
 - (CGFloat)keycapOpacity {
-	return 0.0;
+	return 1.0;
 }
 -(CGFloat)lightKeycapOpacity {
-	return 0.4;
+	return 0.0;
 }
 - (BOOL)lightKeyboard {
  	return TRUE;
